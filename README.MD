@@ -1,3 +1,5 @@
+Thanks https://github.com/timy90022/One-Shot-Object-Detection and https://github.com/jwyang/faster-rcnn.pytorch for providing the code which is used in this repository.
+
 # To setup repository, please follow these instructions:
 
 1. Setup Faster R-CNN using instructions given in https://github.com/jwyang/faster-rcnn.pytorch
